@@ -1,3 +1,10 @@
+
+import java.build
 public class dummy5 {
 public static void main(String args[]) {
 sysout(In main class) }
+
+public void getbuild(){
+ 	// in the GetBuild() method 
+}
+
